@@ -1,4 +1,5 @@
-import { API_KEY } from "../utils/config";
+import { API_KEY } from "../config";
+
 const NEXT_PUBLIC_API_KEY=process.env.NEXT_PUBLIC_API_KEY;
 console.log(NEXT_PUBLIC_API_KEY);
 

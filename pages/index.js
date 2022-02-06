@@ -2,7 +2,7 @@ import Head from "next/head";
 import Header from "../components/header";
 import Navbar from "../components/navbar";
 import Results from "../components/results";
-import { API_KEY } from "../utils/config";
+
 import requests from "../utils/requests";
 
 
